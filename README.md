@@ -21,7 +21,24 @@
 <br />
 
 ## Description
+A simple C# application which represents a bank account. It contains three classes:
 
+```
+1. Program.cs
+2. BankAccount.cs
+3. Transaction.cs
+```
+The second class contains the constructor which has the same name as it's class:
+
+```
+public BankAccount(string name, decimal initialBalance)
+    {
+        this.Owner = name;
+        MakeDeposit(initialBalance, DateTime.Now, "initialBalance");
+        this.Number = accountNumberseed.ToString();
+        accountNumberseed++;
+    }
+```
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div class=pull-right>
