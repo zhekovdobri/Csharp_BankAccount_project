@@ -5,13 +5,14 @@ var account = new BankAccount("Dobri", 10000);
 Console.WriteLine($"Account {account.Number} was created for {account.Owner} with {account.Balance} initial balance.");
 
 account.MakeWithdrawal(120, DateTime.Now, "New video game");
-Console.WriteLine($"After you bought your new video game your account balance remain {account.Balance}");
+//Console.WriteLine($"After you bought your new video game your account balance remain {account.Balance}");
 
 account.MakeWithdrawal(50, DateTime.Now, "X box Game");
-Console.WriteLine(account.Balance);
+//Console.WriteLine(account.Balance);
 
 Console.WriteLine(account.GetAccountHistory());
 
+/*
 //Test for negative balance:
 try
 {
@@ -35,5 +36,5 @@ catch (ArgumentOutOfRangeException e)
     Console.WriteLine("Exception caught creating account with negative balance");
     Console.WriteLine(e.ToString());   
 }
-
+*/
 
