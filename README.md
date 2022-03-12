@@ -62,6 +62,24 @@ public BankAccount(string name, decimal initialBalance)
   
 * **Clone over SSH**<br>
   $ git clone (ssh://..)
+  
+### Running the application
+  
+1. After the repository is stored(cloned) on your local drive, navigate to "MySuperBank.exe" and copy(Ctr+C) the file name:
+```
+MySuperBank > bin> Debug > net6.0 > MySuperBank.exe
+```
+2. Open the "cmd" and navigate with "cd" command to the "net6.0" folder and then press enter.
+  
+```
+C:\> cd C:\Users\JoeBidens\Documents\C# Bank Account project\bin\Debug\net6.0
+C:\Users\JoeBidens\Documents\C# Bank Account project\bin\Debug\net6.0>
+```
+3. Now just paste the file name which we copied earlier and press enter:
+
+```
+C:\Users\JoeBidens\Documents\C# Bank Account project\bin\Debug\net6.0> .\MySuperBank.exe
+```
 
 ## Known Bugs
 
