@@ -39,6 +39,8 @@ public BankAccount(string name, decimal initialBalance)
         accountNumberseed++;
     }
 ```
+The third class presents the Bank account history transactions. The app is built with C# and it is my first attempt to write in C#. I hope that you will like it ).
+
 </div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div class=pull-right>
