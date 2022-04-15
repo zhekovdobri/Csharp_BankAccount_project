@@ -4,8 +4,6 @@
 
 #### By: Dobri Zhekov
 
-#### [<ins>Check the entire project here</ins>](https://github.com/zhekovdobri/Csharp_BankAccount_project)
-
 ## Technologies Used
 
 <div class=pull-left>
