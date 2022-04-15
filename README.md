@@ -14,7 +14,7 @@
 <img align="right" alt="chart" height="200px" src="https://github.com/zhekovdobri/Csharp_BankAccount_project/blob/main/C%23_language_chart.png">
 </div>
 
-* _C#_
+* C#
 
 <br />
 
