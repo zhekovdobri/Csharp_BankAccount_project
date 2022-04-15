@@ -1,4 +1,4 @@
-<img align="justify" alt="chart" width="950px" src="https://github.com/zhekovdobri/Csharp_BankAccount_project/blob/main/C%23_BankAccount_project1200px.png">
+<img align="justify" alt="chart" width="950px" src="https://github.com/zhekovdobri/Csharp_BankAccount_project/blob/main/Bank_Account1200px.png">
 
 # C#_BankAccount_project
 
